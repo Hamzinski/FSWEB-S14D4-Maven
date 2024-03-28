@@ -8,6 +8,6 @@ public class Bread extends ProductForSale {
 
     @Override
     public void showDetails() {
-        System.out.println(getType()getClass());
+        System.out.println(getType());
     }
 }
